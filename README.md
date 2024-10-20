@@ -14,3 +14,5 @@
    *`Close current tab`*
 - `💾` _`CTRL + S`_
    *`Save current file`*
+- `🔄` _`CTRL + D`_
+   *`Duplicate selected text`*
