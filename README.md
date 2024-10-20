@@ -20,3 +20,5 @@
    *`Move to next mark`*
 - `#️⃣` _`CTRL + .`_
    *`Create new mark`*
+- `🔁` _`CTRL + Q`_
+   *`Cycle tabs`*
