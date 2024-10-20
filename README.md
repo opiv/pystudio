@@ -19,4 +19,4 @@
 - `#️⃣` _`CTRL + SPACE`_
    *`Move to next mark`*
 - `#️⃣` _`CTRL + ALT + SPACE`_
-   *`Create new mark`*
+   *`Create new mark (alternativl)`*
