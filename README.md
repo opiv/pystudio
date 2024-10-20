@@ -24,3 +24,5 @@
    *`Cycle tabs`*
 - `💨` _`CTRL + E`_
    *`Execute content of current tab (Python)`*
+## **`Showcase💫`**
+![Tabs](https://github.com/opiv/pystudio/blob/main/_/1.gif?raw=true)
