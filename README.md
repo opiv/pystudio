@@ -16,7 +16,7 @@
    *`Save current file`*
 - `🔄` _`CTRL + D`_
    *`Duplicate selected text`*
-- `#️⃣` _`CTRL + SPACE`_
+- `#️⃣` _`CTRL + M`_
    *`Move to next mark`*
-- `#️⃣` _`CTRL + ALT + SPACE`_
+- `#️⃣` _`CTRL + .`_
    *`Create new mark`*
