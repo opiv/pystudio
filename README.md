@@ -22,5 +22,5 @@
    *`Create new mark`*
 - `🔁` _`CTRL + Q`_
    *`Cycle tabs`*
-- `✅` _`CTRL + E`_
+- `💨` _`CTRL + E`_
    *`Execute content of current tab (Python)`*
