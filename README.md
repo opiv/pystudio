@@ -26,3 +26,4 @@
    *`Execute content of current tab (Python)`*
 ## **`Showcase💫`**
 ![Tabs](https://github.com/opiv/pystudio/blob/main/_/1.gif?raw=true)
+![Alt Select](https://github.com/opiv/pystudio/blob/main/_/2.gif?raw=true)
